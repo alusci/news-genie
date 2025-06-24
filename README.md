@@ -4,6 +4,8 @@
 
 NewsGenie is your intelligent companion for navigating the news and staying informed. Whether you need fast answers to general questions or a reliable way to verify headlines, NewsGenie uses cutting-edge AI to simplify how you access and understand information.
 
+![News Query Diagram](images/news-genie.png)
+
 ## 🚀 Features
 
 - **Smart Query Detection**: Automatically distinguishes between general knowledge and current news questions.
